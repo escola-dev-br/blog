@@ -1,5 +1,5 @@
 ---
-weight: 20
+weight: 200
 bookFlatSection: true
 title: "Minecraft"
 ---
