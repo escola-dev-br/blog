@@ -1,7 +1,7 @@
 ---
 weight: 10
 bookFlatSection: true
-title: "Linguagens de programação"
+title: "Linguagens"
 ---
 
 # Linguagens de programação
