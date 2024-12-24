@@ -1,0 +1,7 @@
+baseURL = 'https://escola.dev.br/'
+languageCode = 'pt-br'
+title = 'Escola de desenvolvedores'
+
+[module]
+[[module.imports]]
+path = 'github.com/alex-shpak/hugo-book'
